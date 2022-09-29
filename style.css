@@ -1,8 +1,5 @@
-.tetorisu {
-    margin: 3%;
-    padding: 3%;
-}
-
 canvas{
     display: block;
+    margin: 3%;
+    padding: 3%;
 }
